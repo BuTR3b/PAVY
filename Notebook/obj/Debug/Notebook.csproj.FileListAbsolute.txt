@@ -1,0 +1,10 @@
+C:\VS_projects\Notebook\bin\Debug\Notebook.exe.config
+C:\VS_projects\Notebook\bin\Debug\Notebook.exe
+C:\VS_projects\Notebook\bin\Debug\Notebook.pdb
+C:\VS_projects\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\VS_projects\Notebook\obj\Debug\Notebook.Form1.resources
+C:\VS_projects\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+C:\VS_projects\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+C:\VS_projects\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\VS_projects\Notebook\obj\Debug\Notebook.exe
+C:\VS_projects\Notebook\obj\Debug\Notebook.pdb
