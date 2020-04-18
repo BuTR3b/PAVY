@@ -1,0 +1,11 @@
+C:\VS_projects\DistLes_0\DistLes_0\bin\Debug\DistLes_0.exe.config
+C:\VS_projects\DistLes_0\DistLes_0\bin\Debug\DistLes_0.exe
+C:\VS_projects\DistLes_0\DistLes_0\bin\Debug\DistLes_0.pdb
+C:\VS_projects\DistLes_0\DistLes_0\obj\Debug\DistLes_0.csprojAssemblyReference.cache
+C:\VS_projects\DistLes_0\DistLes_0\obj\Debug\DistLes_0.Form1.resources
+C:\VS_projects\DistLes_0\DistLes_0\obj\Debug\DistLes_0.Properties.Resources.resources
+C:\VS_projects\DistLes_0\DistLes_0\obj\Debug\DistLes_0.csproj.GenerateResource.cache
+C:\VS_projects\DistLes_0\DistLes_0\obj\Debug\DistLes_0.exe
+C:\VS_projects\DistLes_0\DistLes_0\obj\Debug\DistLes_0.pdb
+C:\VS_projects\DistLes_0\DistLes_0\obj\Debug\DistLes_0.Form2.resources
+C:\VS_projects\DistLes_0\DistLes_0\obj\Debug\DistLes_0.csproj.CoreCompileInputs.cache
