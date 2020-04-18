@@ -1,0 +1,9 @@
+C:\VS_projects\FormGame\bin\Debug\FormGame.exe.config
+C:\VS_projects\FormGame\bin\Debug\FormGame.exe
+C:\VS_projects\FormGame\bin\Debug\FormGame.pdb
+C:\VS_projects\FormGame\obj\Debug\FormGame.csprojAssemblyReference.cache
+C:\VS_projects\FormGame\obj\Debug\FormGame.Form1.resources
+C:\VS_projects\FormGame\obj\Debug\FormGame.Properties.Resources.resources
+C:\VS_projects\FormGame\obj\Debug\FormGame.csproj.GenerateResource.cache
+C:\VS_projects\FormGame\obj\Debug\FormGame.exe
+C:\VS_projects\FormGame\obj\Debug\FormGame.pdb
