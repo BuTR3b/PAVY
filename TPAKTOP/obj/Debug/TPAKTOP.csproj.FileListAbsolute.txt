@@ -1,0 +1,10 @@
+C:\VS_projects\TPAKTOP\bin\Debug\TPAKTOP.exe.config
+C:\VS_projects\TPAKTOP\bin\Debug\TPAKTOP.exe
+C:\VS_projects\TPAKTOP\bin\Debug\TPAKTOP.pdb
+C:\VS_projects\TPAKTOP\obj\Debug\TPAKTOP.csprojAssemblyReference.cache
+C:\VS_projects\TPAKTOP\obj\Debug\TPAKTOP.Form1.resources
+C:\VS_projects\TPAKTOP\obj\Debug\TPAKTOP.Properties.Resources.resources
+C:\VS_projects\TPAKTOP\obj\Debug\TPAKTOP.csproj.GenerateResource.cache
+C:\VS_projects\TPAKTOP\obj\Debug\TPAKTOP.csproj.CoreCompileInputs.cache
+C:\VS_projects\TPAKTOP\obj\Debug\TPAKTOP.exe
+C:\VS_projects\TPAKTOP\obj\Debug\TPAKTOP.pdb
