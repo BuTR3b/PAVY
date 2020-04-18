@@ -1,0 +1,10 @@
+C:\VS_projects\Files\bin\Debug\Files.exe.config
+C:\VS_projects\Files\bin\Debug\Files.exe
+C:\VS_projects\Files\bin\Debug\Files.pdb
+C:\VS_projects\Files\obj\Debug\Files.csprojAssemblyReference.cache
+C:\VS_projects\Files\obj\Debug\Files.Properties.Resources.resources
+C:\VS_projects\Files\obj\Debug\Files.csproj.GenerateResource.cache
+C:\VS_projects\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\VS_projects\Files\obj\Debug\Files.exe
+C:\VS_projects\Files\obj\Debug\Files.pdb
+C:\VS_projects\Files\obj\Debug\Files.Form1.resources
