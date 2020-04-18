@@ -1,0 +1,10 @@
+C:\VS_projects\Paint_0\Paint_0\bin\Debug\Paint_0.exe.config
+C:\VS_projects\Paint_0\Paint_0\bin\Debug\Paint_0.exe
+C:\VS_projects\Paint_0\Paint_0\bin\Debug\Paint_0.pdb
+C:\VS_projects\Paint_0\Paint_0\obj\Debug\Paint_0.csprojAssemblyReference.cache
+C:\VS_projects\Paint_0\Paint_0\obj\Debug\Paint_0.Form1.resources
+C:\VS_projects\Paint_0\Paint_0\obj\Debug\Paint_0.Properties.Resources.resources
+C:\VS_projects\Paint_0\Paint_0\obj\Debug\Paint_0.csproj.GenerateResource.cache
+C:\VS_projects\Paint_0\Paint_0\obj\Debug\Paint_0.exe
+C:\VS_projects\Paint_0\Paint_0\obj\Debug\Paint_0.pdb
+C:\VS_projects\Paint_0\Paint_0\obj\Debug\Paint_0.csproj.CoreCompileInputs.cache
